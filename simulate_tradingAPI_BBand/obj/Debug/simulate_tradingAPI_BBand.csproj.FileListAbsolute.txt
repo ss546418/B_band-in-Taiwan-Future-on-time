@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\布林通道_API\simulate_tradingAPI_BBand\simulate_tradingAPI_BBand\bin\Debug\simulate_tradingAPI_BBand.exe.config
+C:\Users\user\Desktop\布林通道_API\simulate_tradingAPI_BBand\simulate_tradingAPI_BBand\bin\Debug\simulate_tradingAPI_BBand.exe
+C:\Users\user\Desktop\布林通道_API\simulate_tradingAPI_BBand\simulate_tradingAPI_BBand\bin\Debug\simulate_tradingAPI_BBand.pdb
+C:\Users\user\Desktop\布林通道_API\simulate_tradingAPI_BBand\simulate_tradingAPI_BBand\obj\Debug\simulate_tradingAPI_BBand.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\布林通道_API\simulate_tradingAPI_BBand\simulate_tradingAPI_BBand\obj\Debug\Interop.JDWLSHKQuoteOBJLib.dll
+C:\Users\user\Desktop\布林通道_API\simulate_tradingAPI_BBand\simulate_tradingAPI_BBand\obj\Debug\simulate_tradingAPI_BBand.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\布林通道_API\simulate_tradingAPI_BBand\simulate_tradingAPI_BBand\obj\Debug\simulate_tradingAPI_BBand.Form1.resources
+C:\Users\user\Desktop\布林通道_API\simulate_tradingAPI_BBand\simulate_tradingAPI_BBand\obj\Debug\simulate_tradingAPI_BBand.Properties.Resources.resources
+C:\Users\user\Desktop\布林通道_API\simulate_tradingAPI_BBand\simulate_tradingAPI_BBand\obj\Debug\simulate_tradingAPI_BBand.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\布林通道_API\simulate_tradingAPI_BBand\simulate_tradingAPI_BBand\obj\Debug\simulate_tradingAPI_BBand.exe
+C:\Users\user\Desktop\布林通道_API\simulate_tradingAPI_BBand\simulate_tradingAPI_BBand\obj\Debug\simulate_tradingAPI_BBand.pdb
